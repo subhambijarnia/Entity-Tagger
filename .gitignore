@@ -1,6 +1,6 @@
 *.sqlite3
 db.sqlite3
-__pycache__
-migrations
-__init__
-__pycache__
+appET/__pycache__
+appET/migrations
+projectET/__init__.py
+projectET/__pycache__
